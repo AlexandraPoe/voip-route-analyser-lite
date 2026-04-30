@@ -2,7 +2,7 @@
 
 A Python + Streamlit dashboard that simulates NOC (Network Operations Center) workflows for VoIP route quality analysis.
 
-🔗 Live Demo: (https://voip-route-analyser-lite.streamlit.app)  
+🔗 Live Demo: (https://voip-route-analyser-lite-ria.streamlit.app)  
 💻 Source Code: https://github.com/AlexandraPoe/voip-route-analyser-lite
 
 ## 🚀 Features
